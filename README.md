@@ -1,4 +1,4 @@
-# Clickatell2
+# Clickatell2 Systems Development
 The course is designed to provide a broad perspective on the nature of technology, how to use and 
 apply a variety of technologies, and the impact Information and Communications Technology (ICT) has 
 on self and society. Students are encouraged to cope with the complexities, as well as the advantages 
